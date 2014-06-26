@@ -11,7 +11,9 @@
 [Dd]ebugPublic/
 [Rr]elease/
 x64/
+build/
 
+bld/
 [Oo]bj/
 
 # MSTest test Results
@@ -170,3 +172,4 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+![Bb]in/
